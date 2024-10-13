@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 group-title="IPTV.MEU",tviVideo 
 https://video-auth6.iol.pt/edge_servers/tvi-720_passthrough/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAyNCA0OjE4OjU3IFBNJmhhc2hfdmFsdWU9Q3dUYmM4a0IyZk5TN01lNVROaU1RUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTViNjM5MWMzLWEzYzgtNGRlMS1iMjU1LWI4ZGY3MDU2OGUyMA==
+#EXTINF:-1 group-title="IPTV.MEU",tviVideoficcao 
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
