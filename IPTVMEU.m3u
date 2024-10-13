@@ -7,5 +7,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/s
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 #EXTINF:-1 group-title="IPTV.MEU",Classique Tv Séries 3 - Star Trek
 https://stmv1.srvif.com/startrek/startrek/playlist.m3u8
+#EXTINF:-1 group-title="IPTV.MEU",Classique Tv Séries 6 - Os 3 Patetas 01 Ao Vivo
+https://stmv6.voxtvhd.com.br:1443/play.php?login=especial1&video=OSTRESPATETAS_VIDEOS02/Os_Tres_Patetas01.mp4.mp4
 #EXTINF:-1 group-title="IPTV.MEU",Classique Tv Séries 6 - Os 3 Patetas 30 Ao Vivo
 https://stmv6.voxtvhd.com.br:1443/play.php?login=especial1&video=OSTRESPATETAS_VIDEOS02/Os_Tres_Patetas030.mp4.mp4
