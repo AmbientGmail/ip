@@ -5,3 +5,5 @@ https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificca
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
 #EXTINF:-1 group-title="IPTV.MEU",Tv Clássicos 
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+#EXTINF:-1 group-title="IPTV.MEU",Classique Tv Séries 3 - Star Trek
+https://stmv1.srvif.com/startrek/startrek/playlist.m3u8
